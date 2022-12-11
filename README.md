@@ -1,6 +1,7 @@
 ### สวัสดีผมชื่อนนท์ผมอายุ 17 ปี เป็น Owner ElainaSann BOT AIChat 👋
 
 [Discord Support](https://discord.gg/8vsJZDYk8d)
+<br>
 [ElainaSann BOT](https://discord.com/api/oauth2/authorize?client_id=914008826301272094&scope=bot+applications.commands&permissions=2147483656)
 
 ### สวัสดีผมชื่อนนท์เป็น Developer ฝึกหัดนะครับ ภาษาที่ผมใช้เขียนและโปรแกรมที่ผมใช้
