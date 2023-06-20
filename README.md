@@ -10,8 +10,9 @@
 -  All of my projects are available at [https://github.com/MikihinaSann](https://github.com/MikihinaSann)
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?theme=radical&author=MikihinaSann&type=horizontal&quote=I love the technology world. developed very quickly Because I will learn more and more about it endlessly.">
+<a href="https://github.com/piyushsuthar/github-readme-quotes" target="blank">
+<img src="https://quotes-github-readme.vercel.app/api?theme=radical&author=MikihinaSann&type=horizontal&quote=I love the technology world. developed very quickly Because I will learn more and more about it endlessly."  alt="failed to load resource" height="200" />
+</a>
 
 **[ Profile Viewer ]**
 
