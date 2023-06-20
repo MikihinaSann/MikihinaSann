@@ -85,7 +85,7 @@
 [![BocchiSann BOT](https://dcbadge.vercel.app/api/shield/970701752779296768?bot=true)](https://discord.com/api/oauth2/authorize?client_id=897621786492039229&permissions=8&scope=bot%20applications.commands)
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes" target="blank">
-<img src="https://quotes-github-readme.vercel.app/api?theme=radical&author=MikihinaSan&quote=I love the technology world. developed very quickly Because I will learn more and more about it endlessly."  alt="failed to load resource"/>
+<img src="https://quotes-github-readme.vercel.app/api?theme=radical&author=MikihinaSan&quote="  alt="failed to load resource"/>
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MikihinaSann&theme=radical&hide_border=true&card_width=500&card_height=150&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
