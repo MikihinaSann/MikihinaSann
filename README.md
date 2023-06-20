@@ -92,6 +92,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MikihinaSann&theme=radical&hide_border=true&card_width=500&card_height=150&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MikihinaSann&count_private=true&show_icons=true&card_width=500&card_height=150&hide_border=true&theme=radical)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&hide_border=true&card_width=500&card_height=150&langs_count=5&theme=radical&username=MikihinaSann)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MikihinaSann&count_private=true&border_radius=20&show_icons=true&card_width=500&card_height=150&hide_border=true&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&border_radius=20&layout=compact&hide_border=true&card_width=500&card_height=150&langs_count=5&theme=radical&username=MikihinaSann)](https://git.io/streak-stats)
 </div>
