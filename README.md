@@ -13,7 +13,7 @@
 
 **[ Profile Viewer ]**
 
-[![ProfileViewer](https://visitcount.itsvg.in/api?id=MikihinaSann&label=Profile%20Analytics%20Viewer&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
+//[![ProfileViewer](https://visitcount.itsvg.in/api?id=MikihinaSann&label=Profile%20Analytics%20Viewer&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 [![wakatime](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f.svg)](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f)
 
