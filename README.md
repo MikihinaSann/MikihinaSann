@@ -72,6 +72,7 @@
 
 **[MY PERSONAL DISCORD For Contact]**
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/419882149542363137)](https://discord.com/users/419882149542363137)
 [![My Personal Discord Account](https://dcbadge.vercel.app/api/shield/419882149542363137)](https://discord.com/users/419882149542363137/)
 
 **[OWNER & Staff BOT]**
