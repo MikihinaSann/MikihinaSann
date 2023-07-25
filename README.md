@@ -22,7 +22,7 @@
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img
-      src="https://github-widgetbox.vercel.app/api/skills?languages=ts,js,python,php&libraries=tensorflow&tools=git,npm,redis,mongodb,nodejs,vscode&software=windows,linux&theme=dark"
+      src="https://github-widgetbox.vercel.app/api/skills?languages=ts,js,python,php&libraries=tensorflow&tools=git,npm,redis,mongodb,nodejs,vscode&theme=dark"
       alt="GitHub Widgetbox" />
     <a />
 </p>
