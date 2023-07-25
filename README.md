@@ -29,26 +29,6 @@
 
 <hr />
 
-<div align="center">
-
-<br>
-
-[![My Personal Discord Account Discord Presence](https://lanyard.cnrad.dev/api/419882149542363137)](https://discord.com/users/419882149542363137)
-
-**[OWNER & Staff BOT]**
-
-[![BloodRose BOT](https://dcbadge.vercel.app/api/shield/897621786492039229?bot=true)](https://discord.com/api/oauth2/authorize?client_id=914008826301272094&permissions=8&scope=bot%20applications.commands)
-
-[![ElainaSann BOT](https://dcbadge.vercel.app/api/shield/914008826301272094?bot=true)](https://discord.com/api/oauth2/authorize?client_id=957108237050708049&permissions=8&scope=bot%20applications.commands)
-
-[![YunaSann BOT](https://dcbadge.vercel.app/api/shield/957108237050708049?bot=true)](https://discord.com/api/oauth2/authorize?client_id=970701752779296768&permissions=8&scope=bot%20applications.commands)
-
-[![BocchiSann BOT](https://dcbadge.vercel.app/api/shield/970701752779296768?bot=true)](https://discord.com/api/oauth2/authorize?client_id=897621786492039229&permissions=8&scope=bot%20applications.commands)
-
-</div>
-
-<hr />
-
 <br>
 
 <p align="center">
