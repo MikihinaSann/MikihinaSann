@@ -1,4 +1,7 @@
 <p align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f.svg)](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f)
+<br>
   <a href="https://github.com/LeGioN09/capsule-render](https://git.io/typing-svg)">
     <img
       src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=700&size=36&duration=4000&pause=1500&color=5D699B&background=FFFFFF00&center=true&vCenter=true&width=756&height=80&lines=Hi!, i'm MikihinaSann~! ✨;This profile is made with love. ❤️"
