@@ -1,6 +1,8 @@
 <p align="center">
 <div align="center">
-  [![wakatime](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f.svg)](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f)
+  
+[![wakatime](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f.svg)](https://wakatime.com/badge/user/5af079c3-4d4a-4436-9982-6ba725ed4a2f)
+
 <div/>
 
 <br>
